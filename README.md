@@ -9,12 +9,19 @@
 
 ### Computer Vision Notebooks
 
-- CNN, ResNet, VGG, Faster RCNN (Tensorflow/Keras, Pytorch) 
+- Image classification by CNN, ResNet, VGG, Faster RCNN for  (Tensorflow/Keras, Pytorch) 
 - Face recognition
 - Object detection (YOLO)
 - Transfer learning 
 
 ### NLP Notebooks
+
+- Bag of words: word counts, TF, TF-IDF; word to vector 
+- Lexicon-based text processing 
+- Classification on product review text (Logistic Regression, Neural Networks, RNN, BERT, Transformer) 
+- Emojifier by LSTM (Keras) 
+- Word detection from audio recording by RNN/LSTM (Keras)
+- Neural Machine Translation (NMT) by RNN/LSTM (Keras)
 
 ### RL Notebooks
 
@@ -22,8 +29,17 @@
 
 ### AutoEncoder
 
+- Keras based AutoEncoder 
+
 ### AutoGluon
+
+- AutoGluon enables AutoML for binary classification
 
 ### AutoFeat 
 
+- Auto feature engineering by autofeat library
+
 ### GPU test
+
+- numba 
+- Tensorflow/Keras with cuda
