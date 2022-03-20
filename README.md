@@ -39,7 +39,12 @@
 
 - Auto feature engineering by autofeat library
 
+### Graph networks 
+
+- Build network of vector correlation by networkx library 
+
 ### GPU test
 
 - numba 
 - Tensorflow/Keras with cuda
+
