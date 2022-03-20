@@ -2,7 +2,9 @@
 
 Basic ML Notebooks
 
-DL Notebooks
+Computer Vision Notebooks
+
+NLP Notebooks
 
 RL Notebooks
 
